@@ -126,4 +126,23 @@
 //         sc++;
 //     }
 
+    
+
 // }
+
+// #include<stdio.h>
+
+// int main(){
+//     int j  = 10;
+
+//     if (j = 0){
+//         printf("I was wrong");
+//     }else{
+//         printf("I was right");
+//     }
+    
+// }
+
+
+//////////////////////////////////////////////
+
