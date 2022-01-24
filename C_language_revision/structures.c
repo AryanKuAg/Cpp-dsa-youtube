@@ -145,4 +145,57 @@
 
 
 //////////////////////////////////////////////
+// #include<stdio.h>
+// #include<stdlib.h>
 
+// int main(){
+//  int * ptr = (int *) malloc( 50 * sizeof(int));
+//  free(ptr);
+// }
+
+
+// #include<stdio.h>
+
+// int main(){
+
+//     // char name[100];
+//     // printf("Enter your name: ");
+//     // scanf("%[^\n]%*c", name);
+//     // puts(name);
+//     // double dd;
+//     // scanf("%f",&dd);
+//     // printf("%f", dd);
+//     char s;
+//     char w[20];
+//     char sen[100];
+
+//     printf("Enter a character: ");
+//     scanf("%c%*c", &s);
+//     printf("Enter a word: ");
+//     scanf("%s%*c", w);
+//     printf("Enter a sentence: ");
+//     scanf("%[^\n]%*c", sen);
+
+//     // print
+//     printf("%c\n", s);
+//     printf("%s\n", w);
+//     int counter = 0;
+//     while (sen[counter] != '\0'){
+        
+//         printf("%c",sen[counter]);
+//         counter++;
+//     }
+
+// }
+
+
+#include<stdio.h>
+#include<stdbool.h>
+
+int main(){
+    bool dd = -0;
+    int n = -10;
+    if(n){
+        printf("%d", dd);
+    }
+}
