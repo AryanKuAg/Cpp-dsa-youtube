@@ -191,11 +191,14 @@
 
 #include<stdio.h>
 #include<stdbool.h>
-
+#include<windows.h>
 int main(){
-    bool dd = -0;
-    int n = -10;
-    if(n){
-        printf("%d", dd);
-    }
+    // enum talent {dance, romance  = 243, bangance};
+    // Beep(1000, 20000);
+    // enum talent t1 = bangance;
+    // if (t1 = dance){
+    // printf("%d\a",t1);
+    // }
+    float s = 343343.523434;
+    printf("%.2f",s);
 }
