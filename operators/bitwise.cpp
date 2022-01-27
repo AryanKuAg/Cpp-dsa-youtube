@@ -4,7 +4,7 @@ using namespace std;
 // bitwise operators 
 // perform operations on bits
 int main(){
-    float a =  31/2;
+    int a = (34,352,234,5234,234);
     cout << a;
     return 0;
 }
